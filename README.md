@@ -10,7 +10,7 @@
 
 > *"The following data logs were recovered from restricted orbital and surface telemetry feeds."* 
 > 
-> 👉 **[Proje Raporunu Görüntüle / View Interactive Report](https://github.com/berilenvironmental-lab/abandoned-but-not-forgotten/blob/main/TOP%20SECRET.pdf)**
+> 👉 **[View Interactive Report](https://github.com/berilenvironmental-lab/abandoned-but-not-forgotten/blob/main/TOP%20SECRET.pdf)**
 
 ---
 
