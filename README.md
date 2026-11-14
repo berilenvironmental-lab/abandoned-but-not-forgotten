@@ -3,4 +3,4 @@
 > **SUBJECT:** Abandoned but not Forgotten: NASA's Discarded Equipment on the Moon and Mars
 > 
 > *The following data logs were recovered from restricted orbital and surface telemetry feeds.*
-> [Click Here to View the Project Report]
+> [Click Here to View the Project Report](https://github.com/berilenvironmental-lab/abandoned-but-not-forgotten/blob/main/TOP%20SECRET.pdf)
