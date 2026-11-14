@@ -1,33 +1,27 @@
 <div align="center">
 
 # ⚠️ CLASSIFIED - EYES ONLY ⚠️
-### CLEARANCE LEVEL: Level 5 - Restricted Research Team (TJU)
-**SUBJECT:** Abandoned but not Forgotten: NASA's Discarded Equipment on the Moon and Mars
+### TJU Environmental Engineering Research Team | NASA Space Apps Challenge 2026
+**Abandoned but not Forgotten: NASA's Discarded Equipment on the Moon and Mars**
 
 </div>
 
 ---
 
-> *"The following data logs were recovered from restricted orbital and surface telemetry feeds."* 
-> 
-> 👉 **[View Interactive Report](https://github.com/berilenvironmental-lab/abandoned-but-not-forgotten/blob/main/TOP%20SECRET.pdf)**
+👉 **[View Project Report (PDF)](https://github.com/berilenvironmental-lab/abandoned-but-not-forgotten/blob/main/TOP%20SECRET.pdf)**
 
 ---
 
-## 📌 Mission Overview
-This project investigates the historical legacy, environmental impact, and astrobiological significance of discarded spacecraft and hardware left behind on the Moon and Mars. Moving beyond successful rocket launches, our research examines the silent monuments of space exploration—from Surveyor 3 and Apollo hardware to the Martian rovers and Ingenuity.
+### 📌 Overview
+An investigative research project examining the historical legacy, environmental impact, and astrobiological significance of discarded spacecraft and hardware left behind on the Moon and Mars.
 
-## 🛰️ Mission Logs & Scope
-* **Moon Sector:** Surveyor 3, Apollo 11, and Apollo 12 telemetry, thermal stress analysis (-150°C lunar nights), and microbial survival studies.
-* **Mars Sector:** Spirit & Opportunity surface endurance, dust devil dynamics, and Ingenuity (Ginny) aerial records paving the way for future missions (SkyFall, Mars Chopper, Dragonfly).
+* **Moon Sector:** Surveyor 3 & Apollo telemetry, thermal stress analysis (-150°C), and microbial survival studies.
+* **Mars Sector:** Spirit, Opportunity, and Ingenuity records paving the way for future exploration.
 
-## 📊 Data Sources & Methodology
-This project utilizes verified open-source space telemetry and archival logs to simulate an investigative orbital debris mission concept:
+### 📊 Data Sources
 * NASA Planetary Data System (PDS)
+* JPL Horizons Ephemeris System
 * Archived Mission Equipment & Hardware Logs
-* NASA JPL Horizons On-Line Ephemeris System
-* Debris Tracking & Orbital Trajectory Data
 
-## 🛠️ Design & Publication Stack
-* **Digital Storytelling & Layout:** Shorthand, Canva, Figma
-* **Concept & Documentation:** TJU Environmental Engineering Research Team
+### 🛠️ Design & Tools
+* Canva | TJU Environmental Research Lab
